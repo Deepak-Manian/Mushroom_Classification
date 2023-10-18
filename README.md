@@ -4,7 +4,6 @@
 #### To do so, I have used the following classification methods:
 - **Decision Tree Classifier**
 - **Logistic Regression Classifier**
-- **k-Nearest Neighbor Classifier**
-- **Support Vector Machine Classifier**
 - **Naive Bayes Classifier**
 - **Random Forest Classifier**
+- **XGBoost**
